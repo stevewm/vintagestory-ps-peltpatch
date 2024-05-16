@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "ps-peltpatch",
+  "name": "Primitive Survival Pelt Patch",
+  "description" : "Disables Primitive Survival Pelt functionality",
+  "authors": ["steveto"],
+  "version": "0.0.1",
+  "dependencies": { 
+    "game": "",
+    "survival": ""
+  },
+  "website": "https://github.com/stevewm/vintagestory-ps-peltpatch"
+}
