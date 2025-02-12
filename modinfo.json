@@ -3,7 +3,7 @@
   "modid": "ps-peltpatch",
   "name": "Primitive Survival Pelt Patch",
   "description" : "Disables Primitive Survival Pelt functionality",
-  "authors": ["steveto"],
+  "authors": ["stevewm"],
   "version": "0.0.1",
   "dependencies": { 
     "game": "",
