@@ -1,6 +1,6 @@
 {
   "type": "content",
-  "modid": "ps-peltpatch",
+  "modid": "pspeltpatch",
   "name": "Primitive Survival Pelt Patch",
   "description" : "Disables Primitive Survival Pelt functionality",
   "authors": ["stevewm"],
