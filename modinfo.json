@@ -4,7 +4,7 @@
   "name": "Primitive Survival Pelt Patch",
   "description" : "Disables Primitive Survival Pelt functionality",
   "authors": ["stevewm"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": { 
     "game": "",
     "survival": ""
